@@ -1,0 +1,20 @@
+HTML, BODY {
+    padding: 0px;
+    margin: 0px;
+    font-size: 12px;
+    font-family: Tahoma;
+}
+
+DIV.view-home {
+    padding: 50px;
+    padding-left: 80px;
+    font-size: 18px;
+}
+
+DIV.view-home > H1 {
+    margin-bottom: 50px;
+}
+
+DIV.view-home > UL > LI {
+    margin-bottom: 20px;
+}
