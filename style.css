@@ -18,3 +18,8 @@ DIV.view-home > H1 {
 DIV.view-home > UL > LI {
     margin-bottom: 20px;
 }
+
+SPAN.wip {
+	font-size: 12px;
+	color: #acacac;
+}
