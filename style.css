@@ -5,6 +5,15 @@ HTML, BODY {
     font-family: Tahoma;
 }
 
+BODY > IMG {
+    position: absolute;
+    top: 20;
+    right: 30;
+    border: 0;
+    width: 200px;
+    height: 200px;
+}
+
 DIV.view-home {
     padding: 50px;
     padding-left: 80px;
